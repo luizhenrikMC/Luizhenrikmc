@@ -57,7 +57,7 @@ Quero evoluir na área e construir projetos cada vez melhores. 🚀
 
 ## 📂 Projetos
 
-- **Portfólio pessoal:** meu site pessoal, ainda em construção. _(coloque aqui o link do repositório ou do site)_
+- **Portfólio pessoal:** meu site pessoal, ainda em construção. 
 
 
 ---
